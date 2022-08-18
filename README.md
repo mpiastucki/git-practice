@@ -25,8 +25,8 @@ Now you are ready to commit! 99% of teams add a special comment to each commit, 
 ### Basic Git Summary
 ```
 (make changes)
-git add . //stage all changed files
-git status //this is optional
+git add . 
+git status 
 git commit -m "This is a commit message"
 
 git log //check commit history, use --oneline option for an easy-to-read log
