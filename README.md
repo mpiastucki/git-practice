@@ -1,8 +1,8 @@
 # git-practice
 Contains files for practicing Git 
 
-#Part 1
-##Making Commits
+# Part 1
+## Making Commits
 Commits are the most basic usage of Git. Commits let you make "checkpoints" in your code. 
 
 After you are satisfied with your changes, you need to "stage" your changes. You *must* stage your changes before you commit!
@@ -22,7 +22,7 @@ If you want to confirm the currently staged files before you commit:
 Now you are ready to commit! 99% of teams add a special comment to each commit, this is called a commit message. Make a commit with a message with this command:
 ```git commit -m "Add a new button on the homepage"```
 
-###Basic Git Summary
+### Basic Git Summary
 ```
 (make changes)
 git add . //stage all changed files
