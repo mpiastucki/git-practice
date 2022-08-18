@@ -7,7 +7,9 @@ Commits are the most basic usage of Git. Commits let you make "checkpoints" in y
 
 After you are satisfied with your changes, you need to "stage" your changes. You *must* stage your changes before you commit!
 
-In most real-world cases, you will stage *all* your changes at one time and then commit. To do that, you use ```git add .```. This will stage all files that have changes! (Note: the ```.``` means "all files and folders in the current folder")
+In most real-world cases, you will stage *all* your changes at one time and then commit. To do that, you use ```git add .```. This will stage all files that have changes!
+
+>Note: the ```.``` means "all files and folders in the current folder"
 
 In some cases, you might want to commit only one file or a few files at one time (this is usually a rare case). You can stage individual files like this:
 ```
