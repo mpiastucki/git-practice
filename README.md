@@ -31,3 +31,7 @@ git commit -m "This is a commit message"
 
 git log //check commit history, use --oneline option for an easy-to-read log
 ```
+# Part 2
+## Assignment
+1. Add 3 names to ```names.txt``` and make one ```commit``` for each name.
+2. 
